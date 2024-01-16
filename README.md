@@ -12,7 +12,7 @@
       </p>
     </td>
     <td>
-      <p style="float:left;">... I'm a <b>computational chemist</b> <i>by education</i> and <b>software developer</b> <i>by passion</i>!
+      <p style="float:left;">... I'm a <b>computational chemist</b> <i>by education</i> and a <b>software developer</b> <i>by passion</i>!
         <br><br>
         <ul>
           <li>
