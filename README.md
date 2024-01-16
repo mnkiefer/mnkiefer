@@ -16,7 +16,7 @@
         <br><br>
         <ul>
           <li>
-            🧢 &nbsp; I’m currently working a s a **senior developer** in the <a href="https://cap.cloud.sap/docs/about">CAP</a> Team @SAP
+            🧢 &nbsp; I’m currently working a s a <b>senior sofware developer</b> in the <a href="https://cap.cloud.sap/docs/about">CAP</a> Team @SAP
           </li>
           <li>
             <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> &nbsp; 
