@@ -16,9 +16,6 @@
         <br><br>
         <ul>
           <li>
-            🧢 &nbsp; I’m currently working in the <a href="https://cap.cloud.sap/docs/about">CAP</a> Team @SAP
-          </li>
-          <li>
             <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> &nbsp; 
             Find my education/work experience at <a href="www.linkedin.com/in/mara-nikola-kiefer" rel="nofollow noreferrer">mara-nikola-kiefer</a>
           </li>
