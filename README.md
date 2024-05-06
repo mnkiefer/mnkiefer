@@ -5,7 +5,7 @@
 <ul>
   <li>
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> &nbsp; 
-    Find my education/work experience at <a href="https://www.linkedin.com/in/mara-nikola-kiefer">mara-nikola-kiefer</a>
+    Find my education & work experience at <a href="https://www.linkedin.com/in/mara-nikola-kiefer">mara-nikola-kiefer</a>
   </li>
   <li>
     :musical_note: &nbsp; Find my favorite music to study/work/chill to at <a href="https://www.youtube.com/@LofiGirl">@LofiGirl</a>
