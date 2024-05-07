@@ -4,7 +4,7 @@
 
 <ul>
   <li>
-    :octocat: &nbsp; I'm a <b>Senior Customer Success Architect</b> @<a href="https://www.youtube.com/watch?v=pBy1zgt0XPc">GitHub</a>
+    :octocat: &nbsp; I'm a <b>Senior Customer Success Architect</b> <a href="https://www.youtube.com/watch?v=pBy1zgt0XPc">@GitHub</a>
   </li>
   <li>
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> &nbsp; 
