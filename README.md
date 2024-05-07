@@ -4,6 +4,9 @@
 
 <ul>
   <li>
+    :octocat: I'm a Senior Customer Success Architect @GitHub
+  </li>
+  <li>
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> &nbsp; 
     Find my education & work experience at <a href="https://www.linkedin.com/in/mara-nikola-kiefer">mara-nikola-kiefer</a>
   </li>
