@@ -15,6 +15,9 @@
   </li>
 </ul>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <br>
 
 ![](https://komarev.com/ghpvc/?username=mnkiefer)
