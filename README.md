@@ -18,6 +18,7 @@
 ### GitHub Certifications:
 
 <!--START_SECTION:badges-->
+[![GitHub Copilot](https://images.credly.com/size/110x110/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob)](http://www.credly.com/badges/25de2135-02a0-466e-a4d4-0ea4c3076627 "GitHub Copilot")
 [![GitHub Advanced Security](https://images.credly.com/size/110x110/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png)](http://www.credly.com/badges/1c93695e-2247-4ea9-87e2-27af9e88d3c2 "GitHub Advanced Security")
 [![GitHub Administration](https://images.credly.com/size/110x110/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png)](http://www.credly.com/badges/88809896-0999-4215-be54-4bcbcd9c130b "GitHub Administration")
 [![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/3aca13a6-4a3e-4fde-b44c-4f0feb9d767c "GitHub Actions")
